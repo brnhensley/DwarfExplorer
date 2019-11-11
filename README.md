@@ -2,6 +2,9 @@ DwarfExplorer
 =============
 A DFHack plugin for browsing Dwarf Fortress internal structures (Windows/Linux).
 
+## NOTE: this is not my project, it is forked from the creator for myself to attempt to make a Mac version.
+
+
 **NEW!!** Linux release available. See below for installing instructions.
 
 ![](images/dwarf_explorer.png)
